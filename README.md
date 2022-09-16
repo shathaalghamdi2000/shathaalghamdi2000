@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaza2000
-- 👀 I’m interested in CyberSecurity and Digital transformation
-- 🌱 I’m currently training in cyber security
+- 👀 I’m interested in Cybersecurity and Digital transformation
+- 🌱 I’m currently training in Cybersecurity
 - 💞️ Trainee at SDA with Coding Dojo
 - 📫 How to reach me:shazagha2000@gmail.com
 
